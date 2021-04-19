@@ -1,5 +1,5 @@
 # Insta-Down
-Simple Tool To Download Instagram Videos
+Simple Tool To Download Instagram Videos<br>
 ![alt text](https://github.com/Soud69/Insta-Down/blob/main/image.png?raw=true)
 # Credit
 
